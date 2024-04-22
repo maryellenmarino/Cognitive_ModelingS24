@@ -32,8 +32,6 @@ nhanes.d <- nhanes %>% filter(!is.na(diagnosis))
 nhanes.d[,16] <- as.character(nhanes.d[,16])
 nhanes.d[,29] <- as.character(nhanes.d[,29])
 
-# Clean up the coded values. Ask Hannah what this does
-
 # loop through each column in the main data frame
 for (col in colnames(nhanes.d)) {
   # check if the column exists and is not NA

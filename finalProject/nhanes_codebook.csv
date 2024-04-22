@@ -1,0 +1,96 @@
+code,value,class
+110,Female, http://semanticscience.org/resource/SIO_010052
+111,Male, http://semanticscience.org/resource/SIO_010048
+145,White Hispanic, http://purl.org/twc/HHEAR_00513
+149,Non-White, http://purl.org/twc/HHEAR_00522
+203,Some College or Technical School, http://purl.org/twc/HHEAR_00561
+214,White Non-Hispanic, http://purl.org/twc/HHEAR_00575
+215,Less than High School, http://purl.org/twc/HHEAR_00576
+32,Graduated From High School, http://purl.org/twc/HHEAR_00464
+BPQ020-9,Don't know, http://purl.org/twc/NHANES_00140
+BPQ020-1,Yes, http://purl.org/twc/NHANES_00137
+BPQ020-2,No, http://purl.org/twc/NHANES_00138
+DIQ010-7,Refused, http://purl.org/twc/NHANES_00104
+DIQ010-9,Don't know, http://purl.org/twc/NHANES_00105
+DIQ010-2,No, http://purl.org/twc/NHANES_00102
+DIQ010-3,Borderline, http://purl.org/twc/NHANES_00103
+DIQ010-1,Yes, http://purl.org/twc/NHANES_00101
+DMDBORN-1,"Born in 50 US states or Washington, DC", http://purl.org/twc/NHANES_00025
+DMDBORN4-2,Others, http://purl.org/twc/NHANES_00026
+DMDBORN4-99,Don't know, http://purl.org/twc/NHANES_00092
+DMDBORN-03,Born in Mexico, http://purl.org/twc/NHANES_00093
+DMDBORN4-77,Refused, http://purl.org/twc/NHANES_00091
+DMDBORN-04,Born in Other Spanish Speaking Country, http://purl.org/twc/NHANES_00094
+DMDBORN-05,Born in Other Non-Spanish Speaking Country, http://purl.org/twc/NHANES_00095
+DMDEDUC3-99,Don't know, http://purl.org/twc/NHANES_00001
+DMDEDUC3-14,GED or equivalent, http://purl.org/twc/NHANES_00045
+DMDEDUC3-15,More than high school, http://purl.org/twc/NHANES_00046
+DMDEDUC3-12,"12th grade, no diploma", http://purl.org/twc/NHANES_00043
+DMDEDUC3-13,High school graduate, http://purl.org/twc/NHANES_00044
+DMDEDUC3-10,10th grade, http://purl.org/twc/NHANES_00041
+DMDEDUC3-11,11th grade, http://purl.org/twc/NHANES_00042
+DMDEDUC3-9,9th grade, http://purl.org/twc/NHANES_00040
+DMDEDUC3-7,7th grade, http://purl.org/twc/NHANES_00038
+DMDEDUC3-8,8th grade, http://purl.org/twc/NHANES_00039
+DMDEDUC3-5,5th grade, http://purl.org/twc/NHANES_00036
+DMDEDUC3-6,6th grade, http://purl.org/twc/NHANES_00037
+DMDEDUC3-3,3rd grade, http://purl.org/twc/NHANES_00034
+DMDEDUC3-4,4th grade, http://purl.org/twc/NHANES_00035
+DMDEDUC3-1,1st grade, http://purl.org/twc/NHANES_00032
+DMDEDUC3-2,2nd grade, http://purl.org/twc/NHANES_00033
+DMDEDUC3-0,Never attended / kindergarten only, http://purl.org/twc/NHANES_00031
+DMDEDUC2-9,Don't know, http://purl.org/twc/NHANES_00143
+DMDEDUC2-5,College graduate or above, http://purl.org/twc/NHANES_00052
+DMDEDUC2-3,High school graduate/GED or equivalent, http://purl.org/twc/NHANES_00050
+DMDEDUC2-4,Some college or AA degree, http://purl.org/twc/NHANES_00051
+DMDEDUC2-2,9-11th grade (Includes 12th grade with no diploma), http://purl.org/twc/NHANES_00049
+DMDEDUC3-55,Less than 5th grade, http://purl.org/twc/NHANES_00047
+DMDEDUC3-66,Less than 9th grade, http://purl.org/twc/NHANES_00048
+DMDHRAGZ-1,<20 years, http://purl.org/twc/NHANES_00070
+DMDHRAGZ-2,20-39 years, http://purl.org/twc/NHANES_00074
+DMDHRAGZ-4,60+ years, http://purl.org/twc/NHANES_00072
+DMDHRAGZ-3,40-59 years, http://purl.org/twc/NHANES_00073
+DMDHREDU-9,Don't know, http://purl.org/twc/NHANES_00146
+DMDHREDU-7,Refused, http://purl.org/twc/NHANES_00147
+HIQ011-1,Yes, http://purl.org/twc/NHANES_00122
+HIQ011-2,No, http://purl.org/twc/NHANES_00123
+HIQ011-7,Refused, http://purl.org/twc/NHANES_00124
+HIQ011-9,Don't know, http://purl.org/twc/NHANES_00125
+HIQ031A-99,Covered by private insurance - Don't know, http://purl.org/twc/NHANES_00089
+HIQ031AA-40,No coverage of any type, http://purl.org/twc/NHANES_00087
+HIQ031A-77,Covered by private insurance - Refused, http://purl.org/twc/NHANES_00088
+HIQ031A-14,Covered by private insurance, http://purl.org/twc/NHANES_00078
+HIQ031B-15,Covered by Medicare, http://purl.org/twc/NHANES_00079
+HIQ031C-16,Covered by Medi-Gap, http://purl.org/twc/NHANES_00080
+HIQ031D-17,Covered by Medicaid, http://purl.org/twc/NHANES_00081
+HIQ031E-18,Covered by CHIP, http://purl.org/twc/NHANES_00082
+HIQ031F-19,Covered by military health care, http://purl.org/twc/NHANES_00083
+HIQ031G-20,Covered by Indian Health Service, http://purl.org/twc/NHANES_00090
+HIQ031H-21,Covered by state-sponsored health plan, http://purl.org/twc/NHANES_00084
+HIQ031I-22,Covered by other government insurance, http://purl.org/twc/NHANES_00085
+HIQ260-9,Don't know, http://purl.org/twc/NHANES_00135
+HIQ260-2,No, http://purl.org/twc/NHANES_00133
+HIQ260-7,Refused, http://purl.org/twc/NHANES_00134
+HIQ260-1,Yes, http://purl.org/twc/NHANES_00132
+HIQ270-9,Don't know, http://purl.org/twc/NHANES_00130
+HIQ270-2,No, http://purl.org/twc/NHANES_00128
+HIQ270-7,Refused, http://purl.org/twc/NHANES_00129
+HIQ270-1,Yes, http://purl.org/twc/NHANES_00127
+INDFMIN2-99,Don't know, http://purl.org/twc/NHANES_00153
+INDFMIN2-77,Refused, http://purl.org/twc/NHANES_00152
+INDHHIN2-99,Don't know, http://purl.org/twc/NHANES_00151
+INDHHIN2-77,Refused, http://purl.org/twc/NHANES_00150
+INDHHIN2-14,"$75,000 to $99,999", http://purl.org/twc/NHANES_00018
+INDHHIN2-15,"$100,000 and Over", http://purl.org/twc/NHANES_00019
+INDHHIN2-12,"$20,000 and Over", http://purl.org/twc/NHANES_00016
+INDHHIN2-13,"Under $20,000", http://purl.org/twc/NHANES_00017
+INDHHIN2-9,"$55,000 to $64,999", http://purl.org/twc/NHANES_00014
+INDHHIN2-10,"$65,000 to $74,999", http://purl.org/twc/NHANES_00015
+INDHHIN2-7,"$35,000 to $44,999", http://purl.org/twc/NHANES_00012
+INDHHIN2-8,"$45,000 to $54,999", http://purl.org/twc/NHANES_00013
+INDHHIN2-5,"$20,000 to $24,999", http://purl.org/twc/NHANES_00010
+INDHHIN2-6,"$25,000 to $34,999", http://purl.org/twc/NHANES_00011
+INDHHIN2-4,"$15,000 to $19,999", http://purl.org/twc/NHANES_00009
+INDHHIN2-2,"$ 5,000 to $ 9,999", http://purl.org/twc/NHANES_00007
+INDHHIN2-3,"$10,000 to $14,999", http://purl.org/twc/NHANES_00008
+INDHHIN2-1,"$ 0 to $ 4,999", http://purl.org/twc/NHANES_00006
